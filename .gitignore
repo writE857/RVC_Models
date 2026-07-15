@@ -1,0 +1,5 @@
+﻿# Do not commit model binaries to Git history.
+*.pth
+*.index
+*.zip
+releases/
