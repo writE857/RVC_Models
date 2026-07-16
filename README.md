@@ -2,6 +2,9 @@
 
 RVC 模型合集。模型文件不直接提交到 Git 历史中，实际下载文件放在 GitHub Releases 附件中。
 
+## B站主页
+https://space.bilibili.com/352071947?spm_id_from=333.1007.0.0
+
 ## 使用限制
 
 本仓库中的模型仅供二次创作、学习研究与非商业用途使用。
