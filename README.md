@@ -37,3 +37,6 @@ Release attachments use numbered filenames such as `rvc-model-001.zip`; use `rel
 - [机器可读清单](manifest.csv)
 - [Release 附件映射](RELEASE_ASSETS.md)
 - [Release 附件映射 CSV](release_assets.csv)
+
+
+## 注：大部分模型都有部分问题；例如电音、底噪、气口、呲呲声等。视频中的效果均为经过调音过后的效果。
