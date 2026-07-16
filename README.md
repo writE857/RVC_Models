@@ -40,3 +40,19 @@ Release attachments use numbered filenames such as `rvc-model-001.zip`; use `rel
 
 
 ## 注：大部分模型都有些许瑕疵；例如电音、底噪、气口、呲呲声等。视频中的效果均为经过调音过后的效果。
+
+<div align="center">
+  <table>
+    <tr>
+      <th>支付宝赞赏</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/coffee_qr.png" alt="请作者喝咖啡" width="220">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>请作者喝咖啡</strong></td>
+    </tr>
+  </table>
+</div>
